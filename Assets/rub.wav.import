@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/rub.wav-8a957eb8ba8bbd15608eeff23239fa55.sample"
+
+[deps]
+
+source_file="res://Assets/rub.wav"
+dest_files=[ "res://.import/rub.wav-8a957eb8ba8bbd15608eeff23239fa55.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
